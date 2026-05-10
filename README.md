@@ -1,4 +1,3 @@
-# H2Loop ML Engineer Assignment
 
 Embedded C function analysis pipeline: extract → label → embed → fuse → evaluate → infer.
 
@@ -256,6 +255,3 @@ between the hardware and io classes.
 - **Larger dataset:** Expanding to 5,000+ functions across multiple embedded
   frameworks (Zephyr, FreeRTOS, STM32 HAL) would give the classifier enough
   coverage of low-frequency side-effect combinations.
-
-- **Function pointer tracking:** A simple dataflow pass to resolve `(*fn)(args)`
-  call targets would improve deterministic labeling coverage.

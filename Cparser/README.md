@@ -1,3 +1,4 @@
+# H2Loop ML Engineer Assignment
 
 Embedded C function analysis pipeline: extract → label → embed → fuse → evaluate → infer.
 

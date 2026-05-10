@@ -1,0 +1,31 @@
+{
+  "cluster_0": {
+    "size": 101,
+    "dominant_label": "none",
+    "purity": 1.0,
+    "distribution": {
+      "none": 101
+    }
+  },
+  "cluster_1": {
+    "size": 171,
+    "dominant_label": "none",
+    "purity": 0.789,
+    "distribution": {
+      "none": 135,
+      "memory": 33,
+      "hardware": 1,
+      "io": 2
+    }
+  },
+  "cluster_2": {
+    "size": 212,
+    "dominant_label": "none",
+    "purity": 0.877,
+    "distribution": {
+      "none": 186,
+      "hardware": 23,
+      "memory": 3
+    }
+  }
+}

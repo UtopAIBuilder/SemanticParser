@@ -1,0 +1,32 @@
+{
+  "AST-only (8-dim)": {
+    "macro_f1": 0.2364,
+    "micro_f1": 0.8395,
+    "per_class": {
+      "hardware": 0.0,
+      "io": 0.0,
+      "memory": 0.0,
+      "none": 0.9457
+    }
+  },
+  "UniXcoder-only (768-dim)": {
+    "macro_f1": 0.5558,
+    "micro_f1": 0.9072,
+    "per_class": {
+      "hardware": 0.6667,
+      "io": 0.0,
+      "memory": 0.6154,
+      "none": 0.9412
+    }
+  },
+  "Fused (776-dim)": {
+    "macro_f1": 0.5558,
+    "micro_f1": 0.9072,
+    "per_class": {
+      "hardware": 0.6667,
+      "io": 0.0,
+      "memory": 0.6154,
+      "none": 0.9412
+    }
+  }
+}
